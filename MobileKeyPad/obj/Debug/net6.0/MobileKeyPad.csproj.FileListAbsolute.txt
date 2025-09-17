@@ -1,0 +1,14 @@
+C:\Users\kapil\OneDrive\Desktop\POC\MobileKeyPad\MobileKeyPad\bin\Debug\net6.0\MobileKeyPad.exe
+C:\Users\kapil\OneDrive\Desktop\POC\MobileKeyPad\MobileKeyPad\bin\Debug\net6.0\MobileKeyPad.deps.json
+C:\Users\kapil\OneDrive\Desktop\POC\MobileKeyPad\MobileKeyPad\bin\Debug\net6.0\MobileKeyPad.runtimeconfig.json
+C:\Users\kapil\OneDrive\Desktop\POC\MobileKeyPad\MobileKeyPad\bin\Debug\net6.0\MobileKeyPad.dll
+C:\Users\kapil\OneDrive\Desktop\POC\MobileKeyPad\MobileKeyPad\bin\Debug\net6.0\MobileKeyPad.pdb
+C:\Users\kapil\OneDrive\Desktop\POC\MobileKeyPad\MobileKeyPad\obj\Debug\net6.0\MobileKeyPad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kapil\OneDrive\Desktop\POC\MobileKeyPad\MobileKeyPad\obj\Debug\net6.0\MobileKeyPad.AssemblyInfoInputs.cache
+C:\Users\kapil\OneDrive\Desktop\POC\MobileKeyPad\MobileKeyPad\obj\Debug\net6.0\MobileKeyPad.AssemblyInfo.cs
+C:\Users\kapil\OneDrive\Desktop\POC\MobileKeyPad\MobileKeyPad\obj\Debug\net6.0\MobileKeyPad.csproj.CoreCompileInputs.cache
+C:\Users\kapil\OneDrive\Desktop\POC\MobileKeyPad\MobileKeyPad\obj\Debug\net6.0\MobileKeyPad.dll
+C:\Users\kapil\OneDrive\Desktop\POC\MobileKeyPad\MobileKeyPad\obj\Debug\net6.0\refint\MobileKeyPad.dll
+C:\Users\kapil\OneDrive\Desktop\POC\MobileKeyPad\MobileKeyPad\obj\Debug\net6.0\MobileKeyPad.pdb
+C:\Users\kapil\OneDrive\Desktop\POC\MobileKeyPad\MobileKeyPad\obj\Debug\net6.0\MobileKeyPad.genruntimeconfig.cache
+C:\Users\kapil\OneDrive\Desktop\POC\MobileKeyPad\MobileKeyPad\obj\Debug\net6.0\ref\MobileKeyPad.dll
